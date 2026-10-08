@@ -1,7 +1,5 @@
 // Macro: Automatic_Adipocyte_Segmentation.ijm
 // Automated adipocyte segmentation and measurement with Cellpose
-// IMPORTANT: calibrate the spatial scale (Analyze > Set Scale..., "Global" checked)
-// before running this macro.
 
 // Select a directory containing the images
 dir = getDirectory("Choose a directory containing the images");
