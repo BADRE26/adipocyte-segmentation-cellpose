@@ -1,4 +1,4 @@
-# Automatic Adipocyte Segmentation with Cellpose (Fiji/ImageJ)
+# Automatic Adipocyte Segmentation with Cellpose (Fiji/ImageJ) 
 
 ## Description
 This ImageJ macro (`Automatic_Adipocyte_Segmentation.ijm`) automates the
