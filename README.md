@@ -57,7 +57,7 @@ the macro creates in the same folder:
 Ouafa Badre, Sue-Ling Chang, Belkacem Abdous, Julie Lemieux,
 Francine Durocher, André Tchernof, Caroline Diorio
 
-## Contact (Corresponding Author)
+## Corresponding Author 
 **Caroline Diorio, Ph.D.**
 Department of Social and Preventive Medicine, Université Laval
 Cancer Research Centre, Oncology Research Program
